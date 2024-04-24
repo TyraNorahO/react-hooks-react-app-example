@@ -21,3 +21,4 @@ function App() {
 }
 
 export default App;
+// eslint-disable-next-line no-unused-vars
